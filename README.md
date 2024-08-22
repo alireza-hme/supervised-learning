@@ -4,4 +4,4 @@ Predict house prices with Linear Regression with NumPy, Matplotlib and Scikit-le
 ## Instructions to Run in Development
 
 1. Install the dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
