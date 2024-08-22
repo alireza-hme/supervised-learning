@@ -1,0 +1,22 @@
+# Basic style file for Matplotlib
+
+# Line styles
+lines.linewidth: 2
+lines.color: 1f77b4
+
+# # Font settings
+font.family: sans-serif
+font.sans-serif: Helvetica, Arial
+
+# Grid settings
+grid.color: cccccc
+grid.linestyle: --
+
+# Axes settings
+axes.titlesize: 16
+axes.labelsize: 14
+axes.grid: True
+
+# Figure settings
+figure.figsize: 8, 6
+figure.dpi: 100
