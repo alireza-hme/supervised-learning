@@ -10,4 +10,4 @@ This repository contains implementations of various supervised learning models, 
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/repositoryname.git
+   - git clone https://github.com/yourusername/repositoryname.git
