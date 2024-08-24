@@ -1,5 +1,5 @@
-# Multi Var Linear Regression
-Predict house prices with Linear Regression with NumPy, Matplotlib and Scikit-learn
+# Linear Regression
+Predict house prices with Linear Regression(SGD) using NumPy, Matplotlib and Scikit-learn
 
 ## Instructions to Run in Development
 
